@@ -1,6 +1,6 @@
 /* 
 Pacotes a instalar 
-npm install react-hook-form zod @hookform/resolvers  
+npm install react-hook-form zod @hookform/resolvers  react-router-dom
 
 
 */

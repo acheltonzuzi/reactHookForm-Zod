@@ -1,10 +1,10 @@
-import Forms from "./Components/Forms"
+import Fetch from "./Components/Fetch"
 
 
 function App() {
   return (
    <>
-    <Forms></Forms>
+    <Fetch></Fetch>
    </>
   )
 }
